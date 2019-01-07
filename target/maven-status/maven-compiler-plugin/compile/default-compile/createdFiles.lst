@@ -1,0 +1,5 @@
+dao\UserDAO.class
+bean\UserBean.class
+tool\JDBC.class
+action\CheckUser.class
+servlet\Servlet1.class
